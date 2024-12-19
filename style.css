@@ -2,6 +2,14 @@
     border: 1px solid rgb(126, 123, 123);
 }
     
+.Art_mainDiv img{
+    width: 100%;
+}
+
+.Art_mainDiv h5, .Travel_mainDiv P {
+    margin: 20px;
+}
+
 .agdasima-regular {
     font-family: "Agdasima", sans-serif;
     font-weight: 400;
@@ -18,7 +26,23 @@
     text-align: center;
 }
 
-#movies{
-    text-align: center;
+.movie_head{ 
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text snap{
+    color: rgb(255, 202, 103);
+}
+.book{
+    margin-bottom: 20px;
 }
 
+#contact iframe{
+    width: 100%;
+}
+    
